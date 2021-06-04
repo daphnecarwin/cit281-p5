@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Project 5
+Purpose of the project:
+Gain experience working with classes, including class constructors and methods
 
-You can use the [editor on GitHub](https://github.com/daphnecarwin/cit281-p5/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Gain experience interpreting existing code to design a new class, including constructor and methods
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Gain more experience working with code modules
 
-### Markdown
+Gain experience executing and debugging Node.js code using VSCode, including module breakpoints
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Gain more experience working with Array map() and forEach() methods
 
-```markdown
-Syntax highlighted code block
+Gain experience working with the concept of a gaming loop
 
-# Header 1
-## Header 2
-### Header 3
+Gain more experience working with objects and arrays
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Technologies used for the project:
 
-**Bold** and _Italic_ and `Code` text
+VSCode, Node.js
 
-[Link](url) and ![Image](src)
-```
+What I learned from the project:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This project was optional/extra credit and I did not complete it.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daphnecarwin/cit281-p5/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
